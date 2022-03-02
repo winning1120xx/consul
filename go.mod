@@ -84,7 +84,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.etcd.io/bbolt v1.3.5
 	go.opencensus.io v0.22.0 // indirect
-	go.uber.org/goleak v1.1.10
+	go.uber.org/goleak v1.1.12
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
