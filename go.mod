@@ -96,7 +96,7 @@ require (
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55
 	google.golang.org/grpc v1.25.1
 	gopkg.in/square/go-jose.v2 v2.5.1
-	gotest.tools/v3 v3.0.3
+	gotest.tools/v3 v3.2.0
 	k8s.io/api v0.18.2
 	k8s.io/apimachinery v0.18.2
 	k8s.io/client-go v0.18.2
