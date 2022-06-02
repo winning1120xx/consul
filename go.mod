@@ -40,7 +40,7 @@ require (
 	github.com/hashicorp/go-connlimit v0.3.0
 	github.com/hashicorp/go-discover v0.0.0-20210818145131-c573d69da192
 	github.com/hashicorp/go-hclog v0.14.1
-	github.com/hashicorp/go-memdb v1.3.2
+	github.com/hashicorp/go-memdb v1.3.3
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-raftchunking v0.6.2
 	github.com/hashicorp/go-retryablehttp v0.6.7 // indirect
