@@ -81,7 +81,7 @@ require (
 	github.com/rboyer/safeio v0.2.1
 	github.com/ryanuber/columnize v2.1.2+incompatible
 	github.com/shirou/gopsutil/v3 v3.21.10
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	go.etcd.io/bbolt v1.3.5
 	go.opencensus.io v0.22.0 // indirect
 	go.uber.org/goleak v1.1.10
