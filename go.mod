@@ -95,7 +95,7 @@ require (
 	google.golang.org/appengine v1.6.0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55
 	google.golang.org/grpc v1.25.1
-	gopkg.in/square/go-jose.v2 v2.5.1
+	gopkg.in/square/go-jose.v2 v2.6.0
 	gotest.tools/v3 v3.0.3
 	k8s.io/api v0.18.2
 	k8s.io/apimachinery v0.18.2
