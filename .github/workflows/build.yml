@@ -243,7 +243,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Docker Build (Action)
-        uses: hashicorp/actions-docker-build@v1
+        uses: hashicorp/actions-docker-build@v2
         with:
           version: ${{env.version}}
           target: default
