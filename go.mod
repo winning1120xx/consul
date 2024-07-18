@@ -14,7 +14,7 @@ require (
 	github.com/armon/circbuf v0.0.0-20150827004946-bbbad097214e
 	github.com/armon/go-metrics v0.3.10
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.42.34
+	github.com/aws/aws-sdk-go v1.54.20
 	github.com/coredns/coredns v1.1.2
 	github.com/coreos/go-oidc v2.1.0+incompatible
 	github.com/digitalocean/godo v1.10.0 // indirect
