@@ -33,7 +33,7 @@
     "@hashicorp/react-product-downloads-page": "^2.7.0",
     "@hashicorp/react-product-features-list": "^5.0.0",
     "@hashicorp/react-search": "^6.1.1",
-    "@hashicorp/react-section-header": "^5.0.4",
+    "@hashicorp/react-section-header": "^5.0.5",
     "@hashicorp/react-stepped-feature-list": "^4.0.3",
     "@hashicorp/react-subnav": "^9.3.2",
     "@hashicorp/react-tabs": "^7.0.1",
