@@ -30,7 +30,7 @@ require (
 	github.com/google/gofuzz v1.2.0
 	github.com/google/pprof v0.0.0-20210601050228-01bbb1931b22
 	github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2
-	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/hashicorp/consul-net-rpc v0.0.0-20220207223504-4cffceffcd29
 	github.com/hashicorp/consul/api v1.11.0
 	github.com/hashicorp/consul/sdk v0.8.0
@@ -89,12 +89,12 @@ require (
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c
+	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/appengine v1.6.0 // indirect
-	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55
-	google.golang.org/grpc v1.25.1
+	google.golang.org/genproto v0.0.0-20200423170343-7949de9c1215
+	google.golang.org/grpc v1.29.1
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gotest.tools/v3 v3.0.3
 	k8s.io/api v0.18.2
